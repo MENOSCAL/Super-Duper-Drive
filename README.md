@@ -1,16 +1,16 @@
 # SuperDuperDrive
 
-Created a web application for cloud storage that includes personal information such as password management and notes.
+* Created a web application for cloud storage that includes personal information such as password management and notes.
 
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Creator](#creators)
+* [Creators](#creators)
 
 ## Instructions
 
-* clone the project
-* open the java file in an ide
+* Clone project
+* Open the java file in an ide
 
 ## Creators
 
